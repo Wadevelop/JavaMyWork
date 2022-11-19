@@ -1,7 +1,10 @@
 public class JavaMyWork {
     public static void main(String[]args){
-        //Linking Intelij with Github
-        System.out.println("This is my first Program");
-        System.out.println("18Nov2022");
+        //calculate rectangle area
+        System.out.println("This is rectangle area");
+        int width=5;
+        int height=6;
+        int area=width*height;
+        System.out.print("area of rectangle="+area);
     }
 }
